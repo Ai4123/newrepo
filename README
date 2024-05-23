@@ -3,3 +3,4 @@
         <img src="https://api.vaunt.dev/v1/github/entities/{{Ai4123}}/contributions?format=svg" width="350" title="Includes public contributions"/>
     </a>
 </p>
+![Contributors](.vaunt/cards/contributors.svg)
